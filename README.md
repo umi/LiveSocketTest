@@ -1,4 +1,4 @@
 LiveSocketTest
 ==============
 
-Socket communication sample for fc2 live
+Socket connection sample for fc2 live.
